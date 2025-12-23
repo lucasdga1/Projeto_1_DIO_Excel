@@ -1,6 +1,8 @@
 # Planilha interativa de investimentos no Excel
 Este projeto é o desenvolvimento de uma planilha interativa de investimentos no Excel fruto do curso promovido da DIO em parceria com o banco Santander.
 
+<a href="https://github.com/lucasdga1/Projeto_1_DIO_Excel/blob/main/Lab_1_Excel.xlsx">Planilha de Investimentos em FII</a>
+
 ## Objetivos e aplicabilidade
 Esta planilha auxilia o investidor a escolher:
 
